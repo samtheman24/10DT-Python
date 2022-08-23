@@ -8,7 +8,7 @@ Phone = "04 939 3050"
 address = "170 coutts street, Wellington, NZ"
 allergy = "No"
 
-
+#print to screen
 print('My name:',Name)
 print("Height in centimetres:",height)
 print("My schools phone number:", Phone)
